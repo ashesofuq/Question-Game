@@ -1,0 +1,4 @@
+Which of the following is a binary number?
+A.42042			B.101010
+
+C.23232			D.2
